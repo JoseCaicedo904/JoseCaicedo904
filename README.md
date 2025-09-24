@@ -10,7 +10,7 @@
 - DigitalFace Marketing (https://digitalfacemarketing.com) – Developed web-based tools to promote digital marketing services.
 - Food Ordering App (Fork) – A feature-rich mobile application built with React Native and TypeScript, enabling users to browse menus, add items to cart, and place orders. (https://github.com/Keerthivasan-Venkitajalam/food-ordering-app)
 - Restaurant App (Fork) – React Native + Firebase app to manage restaurant menus, favorites, and order tracking. (https://github.com/Noor-e-Iqra/Bismillah-Restaurant-App-React-Native)
-- Bitrix24 CRM Automation (Private Project) - Designed and implemented an automation workflow between Bitrix24 CRM and a custom website, integrating lead capture forms with the client’s database. Built secure API connections to sync registration data in real time, eliminating manual entry and improving data accuracy for sales and customer onboarding.
+- HubSpot CRM Automation (Private Project) - Designed and implemented an automation workflow between HubSpot CRM and a custom website, integrating lead capture forms with the client’s database. Built secure API connections to sync registration data in real time, eliminating manual entry and improving data accuracy for sales and customer onboarding.
 
 ### 🔧 Tech Stack & Focus
 - **Mobile & Web Development**: React Native, Expo, Next.js, JavaScript, TypeScript, HTML, CSS, PHP.
