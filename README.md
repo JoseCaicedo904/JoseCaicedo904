@@ -8,9 +8,9 @@
 - Saboreo App (Private) – A fast-food e-commerce ordering mobile app with custom React Native components, seamless API connections, an integrated delivery tracking system, and automated WhatsApp follow-ups for customer engagement.  
 - BraverosBox (https://braverosbox.com) – Set up a full e-commerce store with integration to a secure payment gateway, along with custom automation and marketing solutions.  
 - DigitalFace Marketing (https://digitalfacemarketing.com) – Developed web-based tools to promote digital marketing services.
-- Food Ordering App (Fork) – A feature-rich mobile application built with React Native and TypeScript, enabling users to browse menus, add items to cart, and place orders. (https://github.com/Keerthivasan-Venkitajalam/food-ordering-app)
-- Restaurant App (Fork) – React Native + Firebase app to manage restaurant menus, favorites, and order tracking. (https://github.com/Noor-e-Iqra/Bismillah-Restaurant-App-React-Native)
 - HubSpot CRM Automation (Private Project) - Designed and implemented an automation workflow between HubSpot CRM and a custom website, integrating lead capture forms with the client’s database. Built secure API connections to sync registration data in real time, eliminating manual entry and improving data accuracy for sales and customer onboarding.
+- AI-Powered Chatbot Integration 2024 (Private Project) - Developed a N8N/Make.com + OpenAI chatbot solution to handle multi-channel customer interactions. Automated lead qualification, response generation, and CRM tagging, reducing manual support and improving engagement rates across WhatsApp, Messenger, and web chat.
+- Appointment Automation 2024 (Private Project) - Designed workflows to auto-schedule appointments, send reminders via email or WhatsApp, and sync events with Google Calendar. Reduced no-shows and manual coordination through smart triggers and conditional logic inside Make.com.
 
 ### 🔧 Tech Stack & Focus
 - **Mobile & Web Development**: React Native, Expo, Next.js, JavaScript, TypeScript, HTML, CSS, PHP.
